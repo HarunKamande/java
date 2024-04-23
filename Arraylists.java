@@ -8,10 +8,10 @@ public class Arraylists {
         ages.add(23);
         ages.add(56);
 
-        ages.add(0,211);//inserting element to a specific index
+        ages.add(0,21);//inserting element to a specific index
         System.out.println(ages);
 
-        ages.add(0,211);//inserting element into a specific index
+        ages.add(0,211);
 
         //looping arraylist
         for(int i=0; i<ages.size(); i++){
